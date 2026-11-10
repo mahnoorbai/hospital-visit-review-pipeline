@@ -1,0 +1,801 @@
+visit_id,department,payer,wait_minutes,billed,collected,collection_rate,needs_review
+1001,Neurology,Medicaid,50.2,8679.78,5107.35,0.588,0
+1002,Orthopedics,Self-Pay,53.6,1108.62,459.71,0.415,1
+1003,General Medicine,Medicare,10.9,2836.53,2406.19,0.848,0
+1004,Orthopedics,Medicare,15.9,6023.48,5891.44,0.978,0
+1005,Orthopedics,Private,82.5,2322.77,2277.59,0.981,0
+1006,Cardiology,Medicare,46.6,4684.8,4273.93,0.912,0
+1007,General Medicine,Medicare,36.8,936.37,693.4,0.741,0
+1008,General Medicine,Private,104.3,2113.87,1702.85,0.806,1
+1009,General Medicine,Private,25.0,1405.75,752.62,0.535,0
+1010,Orthopedics,Private,53.5,2307.84,1753.96,0.76,0
+1011,Neurology,Private,56.0,2337.61,1510.5,0.646,0
+1012,General Medicine,Private,71.5,2486.29,1649.18,0.663,0
+1013,Orthopedics,Private,9.8,3875.35,3265.19,0.843,0
+1014,Cardiology,Private,24.9,380.77,203.04,0.533,0
+1015,Neurology,Private,32.9,1614.2,898.67,0.557,0
+1016,Cardiology,Self-Pay,70.7,2724.11,2590.68,0.951,0
+1017,Neurology,Medicare,35.8,563.59,217.85,0.387,1
+1018,Orthopedics,Medicaid,56.1,3430.86,2283.79,0.666,0
+1019,Emergency,Medicaid,9.0,1594.38,1504.01,0.943,0
+1020,Neurology,Medicare,20.8,2138.89,1597.19,0.747,0
+1021,Cardiology,Private,62.3,3974.57,2802.73,0.705,0
+1022,Orthopedics,Medicare,23.0,4803.56,2461.03,0.512,0
+1023,Neurology,Medicare,26.4,3490.53,2000.52,0.573,0
+1024,Emergency,Medicaid,70.0,1086.19,981.73,0.904,0
+1025,Emergency,Medicare,13.0,3391.99,2420.16,0.713,0
+1026,General Medicine,Private,15.7,3522.35,2411.34,0.685,0
+1027,General Medicine,Private,8.1,3136.75,1300.89,0.415,1
+1028,Cardiology,Private,71.8,5238.42,1888.02,0.36,1
+1029,Neurology,Medicare,50.6,2525.32,2465.71,0.976,0
+1030,Neurology,Medicare,49.8,5127.04,3050.8,0.595,0
+1031,General Medicine,Private,20.4,5109.78,3791.91,0.742,0
+1032,Neurology,Self-Pay,7.5,3578.76,1438.0,0.402,1
+1033,Neurology,Medicare,5.6,2862.79,2273.12,0.794,0
+1034,Emergency,Private,62.6,3147.13,3009.19,0.956,0
+1035,General Medicine,Private,38.5,5865.65,4247.8,0.724,0
+1036,Orthopedics,Private,43.5,4344.42,1876.68,0.432,1
+1037,General Medicine,Private,31.9,1179.87,859.09,0.728,0
+1038,Orthopedics,Private,14.2,3033.62,2572.89,0.848,0
+1039,Emergency,Private,21.1,1357.35,833.64,0.614,0
+1040,Cardiology,Private,11.4,1563.53,1441.41,0.922,0
+1041,Neurology,Private,10.2,1895.61,1462.74,0.772,0
+1042,Emergency,Self-Pay,47.9,870.25,813.26,0.935,0
+1043,Neurology,Private,6.1,1297.81,980.21,0.755,0
+1044,Cardiology,Medicare,11.5,5396.93,2349.48,0.435,1
+1045,Cardiology,Medicare,22.1,1557.2,858.48,0.551,0
+1046,Emergency,Self-Pay,28.2,3887.69,1870.63,0.481,1
+1047,Cardiology,Private,8.0,2661.51,2503.78,0.941,0
+1048,Orthopedics,Private,35.5,3308.39,2793.14,0.844,0
+1049,Cardiology,Self-Pay,30.7,3389.1,2676.23,0.79,0
+1050,Neurology,Self-Pay,61.9,1258.62,686.74,0.546,0
+1051,Neurology,Medicaid,28.5,3874.83,1819.73,0.47,1
+1052,Neurology,Private,38.0,1006.08,846.81,0.842,0
+1053,Neurology,Private,14.9,1514.7,996.98,0.658,0
+1054,Orthopedics,Medicaid,15.4,3361.05,1669.65,0.497,1
+1055,General Medicine,Self-Pay,8.8,1201.95,902.43,0.751,0
+1056,Emergency,Medicare,15.0,516.8,194.43,0.376,1
+1057,Neurology,Medicare,20.9,2951.43,1658.74,0.562,0
+1058,Cardiology,Private,58.0,756.59,495.24,0.655,0
+1059,Neurology,Medicaid,13.2,3542.9,1580.75,0.446,1
+1060,Cardiology,Private,92.4,1982.89,1963.11,0.99,1
+1061,Cardiology,Private,40.2,2926.88,1422.21,0.486,1
+1062,Neurology,Medicare,34.9,2895.28,1258.66,0.435,1
+1063,Orthopedics,Medicare,27.0,3692.91,1781.08,0.482,1
+1064,Cardiology,Private,23.4,3417.37,2904.39,0.85,0
+1065,Cardiology,Private,16.9,1194.43,748.4,0.627,0
+1066,Neurology,Medicare,7.7,2058.85,1477.27,0.718,0
+1067,Cardiology,Private,13.6,2924.87,1063.65,0.364,1
+1068,Cardiology,Medicare,71.7,5178.18,1928.25,0.372,1
+1069,Neurology,Private,38.6,3435.26,2197.83,0.64,0
+1070,Neurology,Medicare,71.3,4930.85,4343.22,0.881,0
+1071,Emergency,Medicare,16.5,3014.56,2789.69,0.925,0
+1072,Orthopedics,Private,11.1,4386.98,1782.69,0.406,1
+1073,Orthopedics,Private,26.8,2785.37,1949.58,0.7,0
+1074,Cardiology,Private,14.0,4286.92,4045.13,0.944,0
+1075,Orthopedics,Private,30.9,1919.69,1156.0,0.602,0
+1076,Cardiology,Self-Pay,6.2,5509.02,4898.72,0.889,0
+1077,Emergency,Private,3.5,3212.16,1403.4,0.437,1
+1078,Neurology,Medicaid,34.0,874.94,838.2,0.958,0
+1079,Neurology,Private,73.0,2981.9,2500.1,0.838,0
+1080,Neurology,Medicaid,35.0,3441.68,3310.44,0.962,0
+1081,Orthopedics,Medicaid,38.3,3950.27,3119.93,0.79,0
+1082,Emergency,Medicare,27.6,6569.96,3851.39,0.586,0
+1083,Orthopedics,Medicare,29.5,1730.8,1661.25,0.96,0
+1084,Orthopedics,Medicare,7.3,6594.23,3489.13,0.529,0
+1085,Emergency,Private,14.4,2405.44,1361.27,0.566,0
+1086,Emergency,Self-Pay,57.6,1465.81,1180.75,0.806,0
+1087,Emergency,Medicaid,20.5,1755.07,1487.34,0.847,0
+1088,Emergency,Self-Pay,56.9,3325.95,3173.33,0.954,0
+1089,Neurology,Private,28.9,1325.26,640.26,0.483,1
+1090,General Medicine,Medicaid,30.0,1940.38,1685.61,0.869,0
+1091,General Medicine,Self-Pay,20.7,2939.11,2439.62,0.83,0
+1092,Emergency,Private,42.2,5485.39,2147.35,0.391,1
+1093,General Medicine,Private,49.0,3886.58,2338.54,0.602,0
+1094,General Medicine,Medicaid,13.8,2464.52,1315.55,0.534,0
+1095,Emergency,Medicare,8.0,3317.3,1817.61,0.548,0
+1096,General Medicine,Medicaid,4.4,2772.43,2741.7,0.989,0
+1097,Orthopedics,Private,37.1,1074.68,825.15,0.768,0
+1098,Cardiology,Medicaid,34.3,6014.95,4911.14,0.816,0
+1099,Cardiology,Private,108.7,5533.63,5449.53,0.985,1
+1100,Emergency,Private,27.7,2292.95,1364.72,0.595,0
+1101,Neurology,Private,24.3,1795.52,1564.25,0.871,0
+1102,Emergency,Medicaid,31.6,1092.33,690.84,0.632,0
+1103,Neurology,Medicaid,32.8,3436.45,3145.03,0.915,0
+1104,Cardiology,Medicare,22.9,3449.2,1612.25,0.467,1
+1105,Emergency,Private,14.2,1401.36,1353.71,0.966,0
+1106,Orthopedics,Self-Pay,26.7,2791.63,1374.04,0.492,1
+1107,General Medicine,Private,26.0,3818.81,2146.34,0.562,0
+1108,Neurology,Medicaid,25.7,1718.2,1445.91,0.842,0
+1109,General Medicine,Medicare,45.1,2122.68,1286.22,0.606,0
+1110,General Medicine,Private,26.3,2109.99,1572.65,0.745,0
+1111,Emergency,Medicare,8.2,1461.48,933.85,0.639,0
+1112,General Medicine,Private,16.1,2149.46,1789.51,0.833,0
+1113,Orthopedics,Medicaid,22.7,767.66,382.61,0.498,1
+1114,General Medicine,Medicare,27.2,2042.84,792.62,0.388,1
+1115,Emergency,Private,37.6,2062.28,1123.85,0.545,0
+1116,Orthopedics,Self-Pay,27.4,2310.37,1520.92,0.658,0
+1117,Cardiology,Private,3.6,3175.84,1458.39,0.459,1
+1118,General Medicine,Medicare,9.2,1030.42,598.28,0.581,0
+1119,Emergency,Self-Pay,39.4,1171.17,714.4,0.61,0
+1120,Cardiology,Medicare,22.3,1436.89,556.51,0.387,1
+1121,Cardiology,Private,29.1,954.64,696.08,0.729,0
+1122,Neurology,Self-Pay,20.2,3385.03,3130.55,0.925,0
+1123,Orthopedics,Medicare,16.1,1670.44,749.41,0.449,1
+1124,General Medicine,Private,20.8,2354.09,1738.67,0.739,0
+1125,Emergency,Private,29.3,1356.55,1060.93,0.782,0
+1126,Neurology,Medicaid,26.2,1909.31,1188.67,0.623,0
+1127,Orthopedics,Medicare,48.8,2870.29,2312.63,0.806,0
+1128,Neurology,Medicare,6.8,2951.68,1821.11,0.617,0
+1129,Orthopedics,Self-Pay,7.7,1206.12,817.77,0.678,0
+1130,Orthopedics,Medicaid,22.1,2283.48,810.13,0.355,1
+1131,General Medicine,Private,37.9,1372.06,1097.12,0.8,0
+1132,Orthopedics,Private,43.5,2232.45,1741.03,0.78,0
+1133,Neurology,Private,16.6,1581.86,593.14,0.375,1
+1134,Orthopedics,Medicaid,1.3,6226.4,3669.61,0.589,0
+1135,General Medicine,Private,17.0,3806.42,3754.54,0.986,0
+1136,General Medicine,Medicare,34.4,3026.53,1886.98,0.623,0
+1137,Neurology,Medicaid,25.8,2013.02,1361.33,0.676,0
+1138,Cardiology,Self-Pay,38.9,3868.73,3642.23,0.941,0
+1139,Cardiology,Private,56.4,2323.8,1896.73,0.816,0
+1140,Orthopedics,Medicaid,23.2,5876.72,4280.28,0.728,0
+1141,Emergency,Private,18.5,4087.5,3550.29,0.869,0
+1142,Orthopedics,Medicaid,12.6,1900.64,1733.08,0.912,0
+1143,Neurology,Private,7.7,5507.68,3563.34,0.647,0
+1144,Neurology,Private,5.8,2019.42,1330.44,0.659,0
+1145,Neurology,Medicaid,15.3,6427.14,3862.28,0.601,0
+1146,Neurology,Private,51.5,5670.53,5547.81,0.978,0
+1147,Neurology,Private,41.4,2861.22,2298.01,0.803,0
+1148,General Medicine,Medicaid,17.9,789.85,319.17,0.404,1
+1149,Cardiology,Medicaid,92.9,2732.9,2489.46,0.911,1
+1150,Neurology,Medicare,16.2,1121.55,742.87,0.662,0
+1151,Emergency,Medicaid,59.8,1612.88,636.59,0.395,1
+1152,Emergency,Medicare,68.8,1691.65,1196.53,0.707,0
+1153,Emergency,Private,36.0,1114.88,692.52,0.621,0
+1154,Emergency,Private,15.2,2738.94,2521.3,0.921,0
+1155,General Medicine,Private,19.7,1491.95,720.01,0.483,1
+1156,Emergency,Self-Pay,29.8,2076.89,1842.62,0.887,0
+1157,Neurology,Medicare,7.9,1700.87,1211.87,0.713,0
+1158,Orthopedics,Medicare,11.6,3183.7,1227.31,0.385,1
+1159,Emergency,Medicare,10.8,3052.01,2996.16,0.982,0
+1160,General Medicine,Self-Pay,37.8,1975.44,1349.62,0.683,0
+1161,General Medicine,Private,56.0,3274.95,1765.43,0.539,0
+1162,Emergency,Medicare,42.4,4697.23,3077.22,0.655,0
+1163,Orthopedics,Medicare,50.2,453.86,411.93,0.908,0
+1164,Emergency,Medicare,14.2,1639.25,898.62,0.548,0
+1165,General Medicine,Private,20.4,1269.97,603.54,0.475,1
+1166,Cardiology,Self-Pay,21.6,1546.27,670.92,0.434,1
+1167,Neurology,Self-Pay,35.9,384.51,209.02,0.544,0
+1168,General Medicine,Medicare,15.7,437.75,375.17,0.857,0
+1169,Emergency,Medicaid,48.2,203.28,133.46,0.657,0
+1170,Neurology,Self-Pay,67.6,1737.92,865.25,0.498,1
+1171,Emergency,Medicaid,37.1,1706.68,781.69,0.458,1
+1172,Emergency,Private,19.8,5073.3,2872.88,0.566,0
+1173,Cardiology,Medicare,13.1,2613.65,2511.59,0.961,0
+1174,Neurology,Medicare,10.8,3227.18,1849.07,0.573,0
+1175,Neurology,Medicare,3.7,14030.42,13922.11,0.992,0
+1176,Cardiology,Medicaid,22.1,455.27,302.94,0.665,0
+1177,General Medicine,Self-Pay,21.2,5931.87,2766.96,0.466,1
+1178,Emergency,Self-Pay,46.3,2333.73,2168.6,0.929,0
+1179,Orthopedics,Medicare,16.5,1828.94,1187.4,0.649,0
+1180,Emergency,Private,23.1,1656.16,1343.62,0.811,0
+1181,Emergency,Self-Pay,31.9,2917.58,2886.69,0.989,0
+1182,General Medicine,Medicaid,36.7,1838.82,703.56,0.383,1
+1183,Emergency,Private,42.9,1092.8,451.16,0.413,1
+1184,Cardiology,Self-Pay,29.8,1696.06,1387.88,0.818,0
+1185,Cardiology,Self-Pay,8.3,2966.3,1581.59,0.533,0
+1186,Neurology,Medicare,34.5,3555.04,1670.14,0.47,1
+1187,Orthopedics,Medicare,15.5,6271.05,2355.31,0.376,1
+1188,Emergency,Private,57.7,2547.03,927.63,0.364,1
+1189,Emergency,Private,26.5,4852.74,4141.4,0.853,0
+1190,General Medicine,Private,31.0,2125.08,929.47,0.437,1
+1191,Cardiology,Medicaid,114.2,2306.89,1508.75,0.654,1
+1192,Orthopedics,Private,43.4,2233.2,1661.13,0.744,0
+1193,Neurology,Private,34.1,2729.6,1715.36,0.628,0
+1194,Cardiology,Private,23.6,3917.42,1440.12,0.368,1
+1195,Neurology,Medicare,9.0,1790.82,1538.81,0.859,0
+1196,General Medicine,Self-Pay,22.3,1315.96,469.58,0.357,1
+1197,General Medicine,Private,13.0,4095.57,3461.69,0.845,0
+1198,Emergency,Private,72.9,3931.48,3658.82,0.931,0
+1199,Orthopedics,Medicaid,34.4,5280.2,3333.63,0.631,0
+1200,Neurology,Medicare,56.4,1617.27,1129.02,0.698,0
+1201,Cardiology,Private,16.1,2078.19,1371.69,0.66,0
+1202,General Medicine,Medicare,13.8,4182.8,2522.17,0.603,0
+1203,Emergency,Private,40.6,1777.61,1647.54,0.927,0
+1204,Emergency,Private,12.6,3469.74,3230.52,0.931,0
+1205,Neurology,Medicare,18.6,2130.77,1210.88,0.568,0
+1206,General Medicine,Medicare,75.0,2908.46,2180.75,0.75,0
+1207,Orthopedics,Self-Pay,19.2,1077.55,1026.36,0.952,0
+1208,General Medicine,Private,7.3,2527.42,2465.09,0.975,0
+1209,Neurology,Medicare,4.9,141.75,96.51,0.681,0
+1210,Neurology,Medicare,6.5,4644.57,2992.66,0.644,0
+1211,General Medicine,Private,58.5,3733.45,1983.03,0.531,0
+1212,Neurology,Medicaid,16.9,1258.07,1224.44,0.973,0
+1213,General Medicine,Private,112.0,5992.98,2653.87,0.443,1
+1214,Cardiology,Self-Pay,68.1,4485.8,3260.68,0.727,0
+1215,General Medicine,Private,86.3,1113.61,594.29,0.534,0
+1216,General Medicine,Medicare,51.0,1703.49,905.16,0.531,0
+1217,Neurology,Private,39.2,1158.0,710.12,0.613,0
+1218,Neurology,Self-Pay,13.4,2956.25,2953.93,0.999,0
+1219,Emergency,Medicare,26.1,1655.56,638.6,0.386,1
+1220,Emergency,Medicare,41.8,543.85,394.86,0.726,0
+1221,Cardiology,Private,49.0,2300.54,928.66,0.404,1
+1222,Emergency,Medicaid,9.8,4004.05,1803.58,0.45,1
+1223,General Medicine,Private,22.6,2558.8,1626.67,0.636,0
+1224,Neurology,Self-Pay,24.6,3290.64,2243.56,0.682,0
+1225,Emergency,Private,23.9,2705.8,1402.19,0.518,0
+1226,Emergency,Private,11.0,3645.52,2025.81,0.556,0
+1227,Cardiology,Private,80.1,2849.84,1158.54,0.407,1
+1228,Cardiology,Medicare,22.0,2224.13,1216.81,0.547,0
+1229,General Medicine,Medicare,11.7,2539.86,2484.65,0.978,0
+1230,Neurology,Private,81.3,5389.65,5195.94,0.964,0
+1231,Cardiology,Medicaid,68.2,3398.15,1929.03,0.568,0
+1232,Emergency,Medicare,28.9,1255.21,905.08,0.721,0
+1233,Neurology,Medicare,18.2,2515.68,2367.85,0.941,0
+1234,Neurology,Medicare,6.0,2925.4,1035.65,0.354,1
+1235,Emergency,Medicare,37.2,2178.97,1910.84,0.877,0
+1236,Cardiology,Medicare,17.2,546.28,527.95,0.966,0
+1237,Emergency,Private,25.6,1344.58,550.42,0.409,1
+1238,Neurology,Private,76.8,1842.0,838.0,0.455,1
+1239,Orthopedics,Self-Pay,16.2,6380.64,6217.84,0.974,0
+1240,Orthopedics,Self-Pay,36.2,3187.54,2229.37,0.699,0
+1241,General Medicine,Private,43.7,768.56,276.09,0.359,1
+1242,Emergency,Private,57.3,2265.0,1172.05,0.517,0
+1243,Emergency,Medicare,24.3,4923.41,3163.11,0.642,0
+1244,General Medicine,Medicare,22.4,1640.41,1312.97,0.8,0
+1245,General Medicine,Private,22.0,4272.42,3531.39,0.827,0
+1246,General Medicine,Private,33.8,787.96,785.62,0.997,0
+1247,Neurology,Medicaid,66.3,180.22,96.76,0.537,0
+1248,Emergency,Medicaid,21.3,4631.5,3241.32,0.7,0
+1249,Neurology,Private,1.8,1781.62,1241.18,0.697,0
+1250,General Medicine,Private,47.0,567.41,348.2,0.614,0
+1251,Emergency,Private,27.4,1873.08,861.53,0.46,1
+1252,Neurology,Medicaid,37.3,2690.88,2651.45,0.985,0
+1253,Neurology,Private,6.2,3122.6,2824.88,0.905,0
+1254,General Medicine,Private,17.3,285.96,192.71,0.674,0
+1255,Emergency,Medicaid,44.5,1556.74,1155.27,0.742,0
+1256,General Medicine,Private,8.7,2487.74,1238.2,0.498,1
+1257,Emergency,Medicaid,36.1,3118.5,2193.74,0.703,0
+1258,Orthopedics,Private,25.5,1244.92,998.09,0.802,0
+1259,Cardiology,Private,14.5,2108.97,1444.35,0.685,0
+1260,Cardiology,Private,13.5,1637.07,1626.73,0.994,0
+1261,Cardiology,Medicaid,11.1,2744.84,2051.42,0.747,0
+1262,General Medicine,Self-Pay,27.3,4538.31,2682.74,0.591,0
+1263,Orthopedics,Medicaid,29.7,1938.95,1651.79,0.852,0
+1264,Emergency,Private,19.7,895.83,412.8,0.461,1
+1265,Neurology,Medicaid,10.5,1501.04,900.53,0.6,0
+1266,Emergency,Private,35.4,5959.42,3429.79,0.576,0
+1267,Neurology,Private,47.5,1348.19,850.27,0.631,0
+1268,Emergency,Self-Pay,39.9,1031.29,885.01,0.858,0
+1269,Orthopedics,Private,88.5,1864.17,1239.14,0.665,0
+1270,Neurology,Private,22.8,2265.35,1962.04,0.866,0
+1271,General Medicine,Private,62.2,1703.07,1234.25,0.725,0
+1272,Emergency,Private,15.6,791.37,452.94,0.572,0
+1273,Emergency,Private,13.6,2904.35,2545.62,0.876,0
+1274,Neurology,Medicare,28.6,2746.53,1386.69,0.505,0
+1275,General Medicine,Medicare,71.2,3568.84,1769.61,0.496,1
+1276,General Medicine,Self-Pay,20.9,2709.81,1837.05,0.678,0
+1277,Orthopedics,Medicaid,6.2,5685.92,2954.13,0.52,0
+1278,General Medicine,Private,46.9,3729.01,1327.18,0.356,1
+1279,General Medicine,Private,24.7,3308.01,2551.78,0.771,0
+1280,General Medicine,Private,32.3,4632.12,3160.08,0.682,0
+1281,Cardiology,Medicare,14.2,2612.25,1670.76,0.64,0
+1282,Orthopedics,Private,28.4,2137.09,2091.21,0.979,0
+1283,Emergency,Medicare,7.1,2885.04,2080.92,0.721,0
+1284,Neurology,Medicare,80.8,522.9,476.48,0.911,0
+1285,Emergency,Medicare,52.7,2617.28,1153.29,0.441,1
+1286,Orthopedics,Medicare,27.5,2263.83,1629.92,0.72,0
+1287,Neurology,Private,46.1,3071.03,2807.49,0.914,0
+1288,Orthopedics,Self-Pay,15.7,4279.65,3119.95,0.729,0
+1289,General Medicine,Medicaid,51.2,3363.84,2747.28,0.817,0
+1290,Neurology,Private,20.2,1503.78,889.98,0.592,0
+1291,General Medicine,Self-Pay,19.1,3889.78,1595.17,0.41,1
+1292,Emergency,Medicare,11.8,5732.08,3712.3,0.648,0
+1293,Emergency,Self-Pay,35.1,4342.38,2633.27,0.606,0
+1294,Neurology,Medicaid,26.6,957.0,874.3,0.914,0
+1295,Neurology,Medicare,63.5,3343.36,1700.42,0.509,0
+1296,Orthopedics,Private,10.6,1065.45,1042.41,0.978,0
+1297,Orthopedics,Private,35.2,2007.46,1952.84,0.973,0
+1298,General Medicine,Medicare,56.1,3018.27,1542.22,0.511,0
+1299,Neurology,Medicare,30.0,2788.89,1607.05,0.576,0
+1300,Emergency,Private,19.9,4294.76,4003.19,0.932,0
+1301,Orthopedics,Private,29.5,5747.65,5622.95,0.978,0
+1302,Orthopedics,Medicaid,60.3,3196.73,2040.27,0.638,0
+1303,Emergency,Self-Pay,60.3,1911.33,1067.76,0.559,0
+1304,Orthopedics,Medicare,23.9,545.44,377.42,0.692,0
+1305,General Medicine,Private,59.6,4905.64,3910.04,0.797,0
+1306,Neurology,Private,25.7,2271.23,1198.66,0.528,0
+1307,Emergency,Private,45.7,2345.21,1943.49,0.829,0
+1308,Neurology,Self-Pay,38.0,2461.25,944.08,0.384,1
+1309,Orthopedics,Private,19.3,3111.73,1188.81,0.382,1
+1310,Orthopedics,Medicare,12.2,3165.28,1902.61,0.601,0
+1311,Emergency,Private,57.0,2027.75,1175.6,0.58,0
+1312,General Medicine,Medicare,67.4,2257.29,1253.16,0.555,0
+1313,Cardiology,Medicaid,34.6,1618.58,1083.09,0.669,0
+1314,Emergency,Medicaid,25.7,1502.99,839.39,0.558,0
+1315,Cardiology,Private,9.4,1498.11,711.55,0.475,1
+1316,Cardiology,Private,56.1,2241.0,1235.14,0.551,0
+1317,General Medicine,Private,31.9,1308.69,1287.34,0.984,0
+1318,Cardiology,Self-Pay,21.5,161.35,99.59,0.617,0
+1319,Cardiology,Self-Pay,46.6,1890.2,1207.96,0.639,0
+1320,General Medicine,Medicare,7.9,1002.05,726.24,0.725,0
+1321,Cardiology,Medicare,11.3,2564.41,2536.64,0.989,0
+1322,Cardiology,Medicaid,15.2,1614.43,818.58,0.507,0
+1323,Cardiology,Private,37.2,3134.33,2485.0,0.793,0
+1324,Emergency,Self-Pay,29.7,1071.81,873.94,0.815,0
+1325,Emergency,Medicare,40.3,636.28,473.88,0.745,0
+1326,Emergency,Private,53.6,2260.78,921.44,0.408,1
+1327,General Medicine,Medicare,41.2,1839.1,1452.83,0.79,0
+1328,Orthopedics,Private,81.9,938.03,367.39,0.392,1
+1329,Cardiology,Private,53.5,3730.73,2751.39,0.737,0
+1330,Cardiology,Medicaid,23.9,1207.83,1003.38,0.831,0
+1331,General Medicine,Private,17.2,1455.3,708.92,0.487,1
+1332,Cardiology,Medicare,24.4,4137.72,3711.76,0.897,0
+1333,Emergency,Private,42.2,3240.38,1198.07,0.37,1
+1334,Orthopedics,Private,18.7,1115.93,1002.64,0.898,0
+1335,Neurology,Private,43.0,1945.93,1263.32,0.649,0
+1336,Cardiology,Private,39.8,1035.79,509.02,0.491,1
+1337,Emergency,Medicaid,12.0,3967.64,1733.68,0.437,1
+1338,Neurology,Private,52.9,3966.11,3845.74,0.97,0
+1339,Orthopedics,Medicare,33.8,6218.25,2470.09,0.397,1
+1340,Neurology,Medicare,79.4,7557.57,3623.18,0.479,1
+1341,Emergency,Medicaid,25.8,1601.89,922.82,0.576,0
+1342,Neurology,Self-Pay,20.8,3607.25,2716.81,0.753,0
+1343,General Medicine,Medicaid,10.7,559.91,394.24,0.704,0
+1344,Neurology,Private,10.6,2682.57,1157.98,0.432,1
+1345,Cardiology,Private,48.9,3081.15,1658.65,0.538,0
+1346,Cardiology,Private,74.4,1254.83,633.93,0.505,0
+1347,General Medicine,Medicare,24.2,1536.19,750.89,0.489,1
+1348,Emergency,Private,23.0,3981.43,2457.51,0.617,0
+1349,Cardiology,Medicare,27.5,3126.12,2524.72,0.808,0
+1350,Orthopedics,Medicare,55.3,5778.8,2839.38,0.491,1
+1351,Cardiology,Private,12.1,5406.91,3181.11,0.588,0
+1352,Cardiology,Medicaid,31.0,695.79,420.32,0.604,0
+1353,Emergency,Private,49.6,1708.79,1682.64,0.985,0
+1354,Neurology,Private,36.9,1163.81,1129.52,0.971,0
+1355,Cardiology,Medicaid,1.0,3694.3,3214.37,0.87,0
+1356,General Medicine,Medicare,41.4,2841.65,1440.94,0.507,0
+1357,Neurology,Medicaid,37.2,1221.22,481.43,0.394,1
+1358,Orthopedics,Medicare,62.2,1358.14,755.11,0.556,0
+1359,Emergency,Private,70.7,4744.85,2483.53,0.523,0
+1360,Orthopedics,Medicaid,60.2,1836.71,1246.85,0.679,0
+1361,Neurology,Medicaid,27.6,484.15,414.2,0.856,0
+1362,Neurology,Medicaid,5.9,1145.13,1039.67,0.908,0
+1363,Neurology,Private,22.9,6447.81,5797.62,0.899,0
+1364,Orthopedics,Medicare,27.0,4205.99,2455.41,0.584,0
+1365,Neurology,Private,73.8,987.76,786.95,0.797,0
+1366,Orthopedics,Private,14.3,2681.83,1483.97,0.553,0
+1367,Neurology,Self-Pay,8.1,4059.2,1581.42,0.39,1
+1368,General Medicine,Private,18.8,688.11,554.63,0.806,0
+1369,Neurology,Self-Pay,15.0,4316.5,1538.35,0.356,1
+1370,Orthopedics,Medicare,7.4,3108.77,1914.9,0.616,0
+1371,Cardiology,Private,24.6,1475.7,832.44,0.564,0
+1372,Neurology,Medicare,27.7,3400.24,2722.56,0.801,0
+1373,Cardiology,Self-Pay,7.0,2865.41,2430.04,0.848,0
+1374,General Medicine,Medicaid,20.7,2981.85,1633.04,0.548,0
+1375,Emergency,Medicaid,14.2,2624.29,2302.97,0.878,0
+1376,General Medicine,Medicaid,28.4,1324.02,716.36,0.541,0
+1377,Neurology,Medicaid,30.4,1498.06,958.93,0.64,0
+1378,Cardiology,Medicaid,14.2,2066.78,1700.05,0.823,0
+1379,Cardiology,Private,52.6,2468.25,1975.58,0.8,0
+1380,Orthopedics,Medicare,26.5,3516.81,3487.94,0.992,0
+1381,Cardiology,Private,14.8,6532.81,3242.59,0.496,1
+1382,Orthopedics,Self-Pay,6.6,2756.48,2151.45,0.781,0
+1383,Emergency,Self-Pay,31.6,3481.04,2597.88,0.746,0
+1384,Neurology,Private,37.1,3942.44,3724.87,0.945,0
+1385,Orthopedics,Medicaid,17.9,3623.51,1636.51,0.452,1
+1386,Emergency,Self-Pay,29.0,1289.52,1081.48,0.839,0
+1387,Cardiology,Private,70.7,4994.09,3592.62,0.719,0
+1388,Cardiology,Medicare,47.3,4563.35,2411.88,0.529,0
+1389,Emergency,Self-Pay,2.8,2602.83,1713.66,0.658,0
+1390,Cardiology,Private,14.6,1343.26,761.57,0.567,0
+1391,Emergency,Medicaid,23.7,2444.41,1776.0,0.727,0
+1392,Orthopedics,Private,27.6,758.84,704.09,0.928,0
+1393,Orthopedics,Self-Pay,29.5,5357.01,3857.31,0.72,0
+1394,Emergency,Self-Pay,35.5,1590.59,1209.83,0.761,0
+1395,Orthopedics,Self-Pay,24.3,2001.07,1375.11,0.687,0
+1396,Orthopedics,Medicare,26.5,5146.74,1972.53,0.383,1
+1397,Orthopedics,Self-Pay,48.9,4808.44,2410.75,0.501,0
+1398,General Medicine,Medicaid,32.0,2931.86,1963.76,0.67,0
+1399,Neurology,Private,9.8,5803.04,3201.26,0.552,0
+1400,Cardiology,Medicaid,28.3,1261.34,590.49,0.468,1
+1401,General Medicine,Private,23.8,2932.75,1987.48,0.678,0
+1402,Orthopedics,Medicare,4.1,1268.61,710.2,0.56,0
+1403,Emergency,Private,29.3,4408.64,2282.66,0.518,0
+1404,Orthopedics,Private,11.0,4322.25,2816.34,0.652,0
+1405,Neurology,Private,49.4,6030.45,2633.1,0.437,1
+1406,Orthopedics,Medicaid,35.2,2399.54,2286.84,0.953,0
+1407,Emergency,Private,9.3,6956.62,6358.39,0.914,0
+1408,Neurology,Medicaid,48.0,1196.21,968.87,0.81,0
+1409,Orthopedics,Private,62.8,2321.64,972.86,0.419,1
+1410,Neurology,Private,21.6,1226.44,1047.77,0.854,0
+1411,Cardiology,Medicare,23.6,2699.95,2362.92,0.875,0
+1412,Cardiology,Medicaid,44.9,1301.41,1104.96,0.849,0
+1413,Orthopedics,Private,59.9,4415.38,1872.46,0.424,1
+1414,Neurology,Medicare,5.5,3168.28,2434.95,0.769,0
+1415,Emergency,Self-Pay,10.3,1126.11,1004.84,0.892,0
+1416,Orthopedics,Medicare,19.0,3847.74,2790.69,0.725,0
+1417,Cardiology,Private,20.7,5576.88,4295.12,0.77,0
+1418,Cardiology,Private,44.1,3346.44,2168.28,0.648,0
+1419,Orthopedics,Self-Pay,60.1,900.29,624.49,0.694,0
+1420,Neurology,Private,63.0,2187.65,814.56,0.372,1
+1421,Cardiology,Self-Pay,5.3,3594.47,2750.94,0.765,0
+1422,Neurology,Medicare,13.6,2060.71,830.34,0.403,1
+1423,Cardiology,Self-Pay,16.4,1185.51,750.14,0.633,0
+1424,Cardiology,Medicaid,13.5,4699.58,2538.83,0.54,0
+1425,General Medicine,Self-Pay,35.1,2005.83,1413.16,0.705,0
+1426,Cardiology,Private,38.0,5578.8,2436.38,0.437,1
+1427,Emergency,Medicaid,26.3,1714.72,1371.04,0.8,0
+1428,Orthopedics,Medicare,24.5,1933.03,1675.47,0.867,0
+1429,Orthopedics,Medicare,19.7,1628.79,743.02,0.456,1
+1430,Neurology,Medicare,21.5,2164.71,904.42,0.418,1
+1431,Cardiology,Self-Pay,70.2,3138.31,1395.25,0.445,1
+1432,Emergency,Self-Pay,41.9,1228.87,1130.72,0.92,0
+1433,Neurology,Medicaid,20.3,1072.69,743.72,0.693,0
+1434,General Medicine,Medicare,24.1,676.2,442.05,0.654,0
+1435,Neurology,Medicare,35.7,611.1,256.27,0.419,1
+1436,Neurology,Medicaid,9.3,908.25,701.36,0.772,0
+1437,Cardiology,Private,29.0,1707.11,1560.64,0.914,0
+1438,General Medicine,Private,40.3,2670.83,2372.55,0.888,0
+1439,Neurology,Private,36.9,3038.01,2299.58,0.757,0
+1440,Emergency,Private,13.8,2597.83,1036.36,0.399,1
+1441,Emergency,Private,16.0,5226.33,2211.04,0.423,1
+1442,Orthopedics,Private,3.6,6156.29,2352.02,0.382,1
+1443,General Medicine,Private,43.2,2011.81,1040.83,0.517,0
+1444,General Medicine,Private,89.3,1243.21,544.75,0.438,1
+1445,Orthopedics,Self-Pay,12.2,7195.37,3734.62,0.519,0
+1446,Neurology,Medicare,53.4,4609.41,2766.97,0.6,0
+1447,General Medicine,Private,84.3,4419.85,4256.05,0.963,0
+1448,Emergency,Medicaid,18.2,1662.92,1241.78,0.747,0
+1449,Emergency,Private,24.2,3902.12,3483.55,0.893,0
+1450,Cardiology,Self-Pay,31.3,2610.23,2118.8,0.812,0
+1451,General Medicine,Medicaid,36.1,2292.92,970.2,0.423,1
+1452,Neurology,Private,32.5,2290.5,1897.33,0.828,0
+1453,Orthopedics,Medicare,19.3,3222.39,1704.05,0.529,0
+1454,Orthopedics,Self-Pay,39.9,5321.18,4072.94,0.765,0
+1455,Neurology,Self-Pay,19.7,7525.4,4301.71,0.572,0
+1456,Cardiology,Medicare,34.0,1853.37,1850.57,0.998,0
+1457,Orthopedics,Medicare,25.6,2698.91,1406.96,0.521,0
+1458,General Medicine,Private,4.8,2257.64,1199.79,0.531,0
+1459,Cardiology,Self-Pay,58.5,3099.46,2959.79,0.955,0
+1460,General Medicine,Private,16.3,2087.65,764.12,0.366,1
+1461,Emergency,Self-Pay,62.2,6840.2,5491.64,0.803,0
+1462,Cardiology,Medicare,52.0,1538.44,1263.77,0.821,0
+1463,Orthopedics,Medicare,30.6,1855.01,1657.72,0.894,0
+1464,Cardiology,Medicare,37.4,1678.89,1651.0,0.983,0
+1465,Cardiology,Private,40.5,2190.34,2155.6,0.984,0
+1466,Cardiology,Private,22.5,957.41,375.72,0.392,1
+1467,Cardiology,Private,23.3,1699.76,1502.92,0.884,0
+1468,General Medicine,Private,39.2,3081.84,2373.33,0.77,0
+1469,Emergency,Medicaid,25.8,3068.6,2365.19,0.771,0
+1470,Neurology,Private,19.4,2790.67,1209.55,0.433,1
+1471,Cardiology,Private,14.0,5064.09,3912.63,0.773,0
+1472,Orthopedics,Self-Pay,34.7,3153.05,3117.15,0.989,0
+1473,Cardiology,Self-Pay,15.9,4972.04,4687.05,0.943,0
+1474,Orthopedics,Self-Pay,46.3,7528.51,4783.88,0.635,0
+1475,General Medicine,Self-Pay,48.9,3958.07,1488.1,0.376,1
+1476,Orthopedics,Private,37.2,960.86,562.57,0.585,0
+1477,Neurology,Private,42.6,2856.42,2534.08,0.887,0
+1478,Emergency,Medicaid,37.3,2613.22,2106.19,0.806,0
+1479,Orthopedics,Medicaid,44.6,5573.75,3614.99,0.649,0
+1480,Orthopedics,Private,43.4,2239.82,864.16,0.386,1
+1481,Emergency,Medicaid,33.4,1400.69,878.91,0.627,0
+1482,Neurology,Private,52.4,1764.23,1155.33,0.655,0
+1483,Cardiology,Private,23.1,987.58,941.72,0.954,0
+1484,Orthopedics,Medicare,14.3,155.95,119.57,0.767,0
+1485,Emergency,Medicare,13.7,6858.27,3789.7,0.553,0
+1486,General Medicine,Medicare,20.7,2427.76,1678.69,0.691,0
+1487,Emergency,Private,4.1,1057.03,415.35,0.393,1
+1488,General Medicine,Self-Pay,30.4,5854.37,5749.98,0.982,0
+1489,Neurology,Private,40.9,6407.76,3742.38,0.584,0
+1490,Cardiology,Private,48.5,2666.95,1761.82,0.661,0
+1491,Emergency,Self-Pay,5.9,922.72,536.04,0.581,0
+1492,Orthopedics,Self-Pay,14.1,1792.02,1422.21,0.794,0
+1493,Neurology,Self-Pay,45.4,2092.78,1633.31,0.78,0
+1494,Emergency,Medicaid,22.6,2477.63,2019.17,0.815,0
+1495,Orthopedics,Medicaid,40.3,1154.35,605.22,0.524,0
+1496,Emergency,Medicare,8.9,4143.01,2300.13,0.555,0
+1497,General Medicine,Private,61.8,444.9,191.94,0.431,1
+1498,Emergency,Medicare,8.2,4525.99,3512.54,0.776,0
+1499,Emergency,Private,29.8,5068.49,1905.08,0.376,1
+1500,Emergency,Private,30.4,1907.18,1408.44,0.738,0
+1501,Neurology,Medicaid,17.8,2306.9,2111.51,0.915,0
+1502,Emergency,Medicare,36.3,5424.5,5039.58,0.929,0
+1503,Orthopedics,Private,37.0,3515.88,2256.75,0.642,0
+1504,General Medicine,Private,34.4,1950.75,1265.15,0.649,0
+1505,General Medicine,Medicaid,17.6,2099.75,839.96,0.4,1
+1506,Emergency,Private,15.0,3232.97,2541.11,0.786,0
+1507,Neurology,Self-Pay,19.1,6515.46,5758.48,0.884,0
+1508,Neurology,Medicare,13.3,2140.76,1089.7,0.509,0
+1509,Orthopedics,Medicare,54.0,1913.04,1193.44,0.624,0
+1510,Emergency,Medicare,20.3,2467.08,2208.64,0.895,0
+1511,General Medicine,Medicaid,29.2,2476.03,2278.27,0.92,0
+1512,Neurology,Private,45.3,2906.66,1476.78,0.508,0
+1513,Emergency,Medicaid,12.8,2311.45,1636.21,0.708,0
+1514,Neurology,Medicare,7.9,4678.5,2222.85,0.475,1
+1515,Neurology,Private,13.4,1328.27,552.85,0.416,1
+1516,General Medicine,Self-Pay,31.5,3097.36,2918.42,0.942,0
+1517,Cardiology,Medicaid,30.0,3168.74,2799.04,0.883,0
+1518,Orthopedics,Medicaid,34.3,1410.37,1190.38,0.844,0
+1519,Orthopedics,Self-Pay,24.2,3079.32,1175.37,0.382,1
+1520,General Medicine,Self-Pay,1.7,3217.3,2890.5,0.898,0
+1521,Neurology,Medicaid,23.6,284.2,180.39,0.635,0
+1522,Emergency,Medicaid,49.3,1242.14,711.2,0.573,0
+1523,Neurology,Medicaid,57.6,5678.9,4004.81,0.705,0
+1524,General Medicine,Medicaid,27.9,1642.48,672.4,0.409,1
+1525,Orthopedics,Medicare,30.1,1055.13,888.23,0.842,0
+1526,Neurology,Medicaid,39.8,589.06,429.18,0.729,0
+1527,Orthopedics,Private,56.6,1162.75,547.98,0.471,1
+1528,Emergency,Self-Pay,26.1,2251.17,1063.34,0.472,1
+1529,Orthopedics,Self-Pay,39.4,1000.72,470.1,0.47,1
+1530,Orthopedics,Private,17.0,3542.52,1371.14,0.387,1
+1531,Cardiology,Medicaid,9.0,1393.07,1019.82,0.732,0
+1532,Cardiology,Private,18.4,2919.83,2616.83,0.896,0
+1533,Cardiology,Private,64.9,5226.51,1888.72,0.361,1
+1534,Orthopedics,Medicaid,39.9,5044.69,1926.33,0.382,1
+1535,General Medicine,Private,9.8,2890.25,2087.63,0.722,0
+1536,Orthopedics,Medicaid,41.2,1108.96,978.85,0.883,0
+1537,General Medicine,Medicaid,10.5,2347.73,1320.32,0.562,0
+1538,General Medicine,Medicare,34.0,2946.47,1700.85,0.577,0
+1539,Cardiology,Private,12.4,8306.98,6127.44,0.738,0
+1540,Neurology,Private,9.3,584.24,308.62,0.528,0
+1541,Emergency,Medicare,71.8,2352.87,864.2,0.367,1
+1542,Cardiology,Self-Pay,20.3,3469.86,2872.69,0.828,0
+1543,Cardiology,Medicare,39.5,2585.47,1956.35,0.757,0
+1544,Neurology,Private,26.9,2758.64,2006.89,0.727,0
+1545,Emergency,Medicare,11.3,1450.75,1207.16,0.832,0
+1546,Orthopedics,Medicare,22.0,4102.05,3236.11,0.789,0
+1547,Orthopedics,Medicaid,11.4,2476.73,1198.3,0.484,1
+1548,Cardiology,Private,104.8,2752.66,1594.1,0.579,1
+1549,Emergency,Medicaid,44.2,4350.48,1879.28,0.432,1
+1550,Cardiology,Medicare,26.6,1988.8,863.95,0.434,1
+1551,General Medicine,Self-Pay,38.1,4890.7,3861.34,0.79,0
+1552,Cardiology,Private,42.3,975.5,885.84,0.908,0
+1553,Cardiology,Medicare,42.4,2846.92,2777.96,0.976,0
+1554,Orthopedics,Self-Pay,41.2,1390.03,1054.23,0.758,0
+1555,Orthopedics,Private,39.2,1149.28,539.78,0.47,1
+1556,Orthopedics,Self-Pay,28.1,6473.26,2710.18,0.419,1
+1557,General Medicine,Medicaid,68.4,1014.03,890.68,0.878,0
+1558,Orthopedics,Private,29.4,2506.25,1820.02,0.726,0
+1559,Emergency,Private,27.1,956.71,719.34,0.752,0
+1560,Neurology,Medicaid,29.6,4721.66,4050.95,0.858,0
+1561,Emergency,Private,31.1,1863.49,1504.08,0.807,0
+1562,Emergency,Medicare,5.9,4337.51,3870.78,0.892,0
+1563,Orthopedics,Private,13.3,3401.86,1314.95,0.387,1
+1564,Neurology,Medicare,24.2,7627.21,6375.5,0.836,0
+1565,Neurology,Private,5.6,816.2,737.07,0.903,0
+1566,Neurology,Self-Pay,26.5,1234.85,661.86,0.536,0
+1567,General Medicine,Self-Pay,30.8,4205.33,3222.51,0.766,0
+1568,Orthopedics,Self-Pay,8.7,2928.7,1623.1,0.554,0
+1569,Neurology,Medicaid,16.0,2080.96,2024.11,0.973,0
+1570,General Medicine,Private,59.1,6848.92,2545.92,0.372,1
+1571,Cardiology,Medicaid,38.3,2401.0,1745.2,0.727,0
+1572,Cardiology,Private,36.9,1426.62,653.72,0.458,1
+1573,General Medicine,Private,54.6,4367.25,3550.33,0.813,0
+1574,General Medicine,Private,13.5,2450.36,1137.77,0.464,1
+1575,Orthopedics,Medicare,8.7,2567.43,1291.42,0.503,0
+1576,Orthopedics,Medicaid,49.9,3569.09,2396.08,0.671,0
+1577,Cardiology,Medicaid,24.7,3649.69,3447.65,0.945,0
+1578,Neurology,Medicare,13.2,1223.16,596.43,0.488,1
+1579,Cardiology,Private,5.9,2006.13,890.23,0.444,1
+1580,Neurology,Self-Pay,29.8,894.92,754.72,0.843,0
+1581,Neurology,Medicare,22.7,2954.52,1995.49,0.675,0
+1582,Orthopedics,Medicare,19.9,6409.11,6041.61,0.943,0
+1583,Emergency,Private,2.5,1259.05,560.65,0.445,1
+1584,Emergency,Medicaid,67.8,771.67,594.07,0.77,0
+1585,General Medicine,Medicaid,7.3,1584.99,794.67,0.501,0
+1586,Orthopedics,Private,21.4,2069.63,935.25,0.452,1
+1587,Neurology,Private,18.8,3668.28,2913.45,0.794,0
+1588,Emergency,Medicaid,39.1,1935.3,1424.18,0.736,0
+1589,Neurology,Medicaid,5.9,2985.99,2510.14,0.841,0
+1590,Emergency,Private,36.0,1741.24,959.69,0.551,0
+1591,Emergency,Self-Pay,29.9,2141.55,1373.12,0.641,0
+1592,Emergency,Private,15.4,1394.51,855.61,0.614,0
+1593,Orthopedics,Medicare,35.2,1106.8,1095.35,0.99,0
+1594,Cardiology,Self-Pay,26.5,3744.25,2021.75,0.54,0
+1595,Neurology,Medicare,78.1,1820.5,986.04,0.542,0
+1596,Orthopedics,Medicare,22.6,3114.82,1808.02,0.58,0
+1597,Orthopedics,Private,11.8,1379.56,989.13,0.717,0
+1598,Orthopedics,Private,36.3,2410.57,1239.06,0.514,0
+1599,Orthopedics,Self-Pay,20.6,454.12,429.12,0.945,0
+1600,Orthopedics,Medicare,26.1,1908.79,997.72,0.523,0
+1601,General Medicine,Self-Pay,8.8,1481.1,1380.8,0.932,0
+1602,Neurology,Private,39.5,4614.38,1925.39,0.417,1
+1603,Orthopedics,Private,18.1,985.36,765.39,0.777,0
+1604,Neurology,Private,31.6,2197.09,2064.26,0.94,0
+1605,General Medicine,Medicaid,90.4,2932.97,1348.25,0.46,1
+1606,General Medicine,Private,21.7,4253.19,4165.63,0.979,0
+1607,Neurology,Self-Pay,43.1,3923.87,2528.44,0.644,0
+1608,Emergency,Medicare,22.8,2306.18,2224.81,0.965,0
+1609,Cardiology,Self-Pay,15.6,2508.7,1981.7,0.79,0
+1610,Emergency,Private,60.4,4612.04,2518.32,0.546,0
+1611,Emergency,Self-Pay,4.2,2279.05,1076.62,0.472,1
+1612,Emergency,Medicaid,50.5,2672.32,1462.9,0.547,0
+1613,Orthopedics,Medicaid,3.7,4697.77,1928.25,0.41,1
+1614,General Medicine,Medicaid,47.2,8218.63,3645.08,0.444,1
+1615,Emergency,Medicaid,26.4,2810.55,1174.89,0.418,1
+1616,General Medicine,Medicare,11.8,3272.31,2044.91,0.625,0
+1617,Neurology,Private,19.1,3857.25,3344.72,0.867,0
+1618,Cardiology,Private,41.6,4672.47,2064.76,0.442,1
+1619,Neurology,Self-Pay,85.1,4313.55,1875.14,0.435,1
+1620,Neurology,Medicare,6.2,1653.96,1270.62,0.768,0
+1621,Orthopedics,Medicaid,12.4,2922.77,1397.58,0.478,1
+1622,Cardiology,Medicare,8.1,4330.52,1790.44,0.413,1
+1623,Neurology,Private,22.7,5230.5,2397.93,0.458,1
+1624,Neurology,Private,48.0,2199.55,2090.51,0.95,0
+1625,Cardiology,Medicaid,7.0,2881.08,2546.75,0.884,0
+1626,Cardiology,Medicare,25.9,3078.75,1786.11,0.58,0
+1627,Neurology,Private,47.0,2458.44,1908.45,0.776,0
+1628,Cardiology,Medicare,18.9,2837.14,1983.81,0.699,0
+1629,Neurology,Private,30.1,432.15,341.46,0.79,0
+1630,Neurology,Medicare,57.6,11017.91,8745.31,0.794,0
+1631,Orthopedics,Private,10.5,2143.08,1625.91,0.759,0
+1632,Emergency,Medicaid,4.7,2247.08,1175.15,0.523,0
+1633,Neurology,Private,32.7,707.83,265.69,0.375,1
+1634,General Medicine,Medicare,33.4,615.55,397.72,0.646,0
+1635,Emergency,Private,17.9,3206.82,2979.56,0.929,0
+1636,Emergency,Private,15.2,4340.55,3125.95,0.72,0
+1637,Emergency,Private,26.8,3894.77,3470.45,0.891,0
+1638,Orthopedics,Medicare,10.4,1376.98,1369.48,0.995,0
+1639,Neurology,Medicare,10.4,3764.65,1718.0,0.456,1
+1640,Orthopedics,Private,41.4,2225.05,1779.27,0.8,0
+1641,Neurology,Medicaid,9.7,1895.52,1494.22,0.788,0
+1642,Orthopedics,Self-Pay,5.1,913.95,902.04,0.987,0
+1643,Orthopedics,Medicaid,15.2,1495.42,1481.42,0.991,0
+1644,General Medicine,Private,18.2,3250.53,2588.53,0.796,0
+1645,Orthopedics,Medicare,36.0,2904.49,1476.5,0.508,0
+1646,Cardiology,Private,16.3,2655.57,2307.85,0.869,0
+1647,General Medicine,Private,63.9,411.64,172.71,0.42,1
+1648,Orthopedics,Self-Pay,27.8,2671.98,2291.1,0.857,0
+1649,Emergency,Private,13.5,1637.75,1542.15,0.942,0
+1650,Cardiology,Medicare,35.0,2916.91,1746.77,0.599,0
+1651,Cardiology,Medicare,63.2,4752.32,3611.35,0.76,0
+1652,Cardiology,Medicaid,40.7,1799.68,1133.07,0.63,0
+1653,General Medicine,Medicare,6.6,2555.25,1621.43,0.635,0
+1654,Orthopedics,Private,19.5,6826.07,3766.22,0.552,0
+1655,Orthopedics,Private,31.2,2831.15,2393.41,0.845,0
+1656,Emergency,Medicare,39.5,2367.41,2269.2,0.959,0
+1657,Emergency,Private,22.8,1392.45,1338.82,0.961,0
+1658,Cardiology,Private,20.5,3824.7,1773.16,0.464,1
+1659,Emergency,Private,77.7,1232.97,1132.59,0.919,0
+1660,General Medicine,Private,41.1,4870.71,4039.43,0.829,0
+1661,Orthopedics,Private,35.1,3515.45,1808.15,0.514,0
+1662,Cardiology,Private,16.8,1675.64,659.76,0.394,1
+1663,Emergency,Medicare,10.2,1424.39,746.66,0.524,0
+1664,General Medicine,Medicaid,35.5,1447.66,1365.05,0.943,0
+1665,General Medicine,Medicaid,44.0,624.68,475.74,0.762,0
+1666,Emergency,Private,26.0,3161.87,2588.58,0.819,0
+1667,Orthopedics,Private,41.1,459.42,237.59,0.517,0
+1668,Emergency,Private,41.8,2275.71,1860.63,0.818,0
+1669,Cardiology,Medicare,46.0,2185.78,804.98,0.368,1
+1670,Emergency,Medicaid,6.5,1951.16,1158.91,0.594,0
+1671,General Medicine,Private,19.9,3149.22,2385.19,0.757,0
+1672,Emergency,Self-Pay,36.9,1678.38,746.82,0.445,1
+1673,Orthopedics,Private,27.1,2676.06,2368.19,0.885,0
+1674,Neurology,Medicare,41.9,4870.17,2448.58,0.503,0
+1675,Emergency,Medicaid,35.0,3368.67,2607.29,0.774,0
+1676,Orthopedics,Self-Pay,2.8,1843.47,1130.74,0.613,0
+1677,Orthopedics,Medicaid,53.2,2411.6,1778.38,0.737,0
+1678,General Medicine,Medicaid,18.0,1952.55,819.76,0.42,1
+1679,Orthopedics,Private,12.9,2166.49,782.09,0.361,1
+1680,Orthopedics,Medicaid,52.1,2725.4,2565.19,0.941,0
+1681,Orthopedics,Private,39.8,883.03,463.82,0.525,0
+1682,Orthopedics,Self-Pay,56.8,732.7,646.82,0.883,0
+1683,Cardiology,Medicare,31.5,1312.47,1311.92,1.0,0
+1684,Cardiology,Medicaid,19.7,3236.76,1577.69,0.487,1
+1685,General Medicine,Medicare,29.0,3497.05,1826.72,0.522,0
+1686,Emergency,Medicare,11.0,3799.72,2967.05,0.781,0
+1687,Orthopedics,Medicare,7.9,1348.46,1318.18,0.978,0
+1688,Emergency,Medicaid,15.9,2546.43,2407.09,0.945,0
+1689,Emergency,Private,67.8,1880.2,1272.65,0.677,0
+1690,General Medicine,Private,17.2,2222.71,1926.69,0.867,0
+1691,Orthopedics,Private,5.2,1858.94,814.65,0.438,1
+1692,Orthopedics,Private,23.3,2817.94,2776.61,0.985,0
+1693,Neurology,Self-Pay,17.0,1543.71,1507.94,0.977,0
+1694,Emergency,Private,53.9,4566.78,2084.39,0.456,1
+1695,Emergency,Self-Pay,64.8,4589.78,2499.71,0.545,0
+1696,Cardiology,Private,19.0,3178.44,1319.37,0.415,1
+1697,Neurology,Private,31.4,4267.48,2247.33,0.527,0
+1698,Cardiology,Medicaid,33.3,857.31,754.75,0.88,0
+1699,Cardiology,Medicaid,25.2,4717.21,2811.01,0.596,0
+1700,Cardiology,Medicare,22.0,3002.53,1223.4,0.407,1
+1701,General Medicine,Medicare,12.1,1605.62,919.13,0.572,0
+1702,General Medicine,Medicaid,4.3,1500.67,1482.51,0.988,0
+1703,Cardiology,Private,12.1,5625.86,4271.68,0.759,0
+1704,Neurology,Self-Pay,24.6,3834.63,2379.41,0.621,0
+1705,Emergency,Self-Pay,7.1,2186.31,1001.88,0.458,1
+1706,Neurology,Medicaid,30.3,849.8,842.16,0.991,0
+1707,Orthopedics,Private,27.5,4853.19,4288.05,0.884,0
+1708,General Medicine,Medicaid,17.0,1112.85,593.1,0.533,0
+1709,Emergency,Private,21.3,1901.9,752.29,0.396,1
+1710,Emergency,Private,8.3,2184.43,844.95,0.387,1
+1711,Orthopedics,Private,45.4,1485.46,636.14,0.428,1
+1712,Orthopedics,Medicare,44.9,2124.14,1545.31,0.727,0
+1713,Cardiology,Self-Pay,9.7,2389.66,2279.01,0.954,0
+1714,General Medicine,Medicaid,10.0,2096.86,1410.94,0.673,0
+1715,General Medicine,Medicaid,12.2,2900.9,2604.76,0.898,0
+1716,Neurology,Medicare,38.2,5742.95,3674.49,0.64,0
+1717,Cardiology,Private,33.2,881.77,714.74,0.811,0
+1718,Cardiology,Private,51.7,2639.41,2179.41,0.826,0
+1719,Cardiology,Self-Pay,55.5,1121.5,519.34,0.463,1
+1720,Cardiology,Private,6.4,818.0,478.36,0.585,0
+1721,General Medicine,Self-Pay,37.3,4084.49,3121.56,0.764,0
+1722,General Medicine,Medicare,54.1,2775.15,1098.83,0.396,1
+1723,Cardiology,Medicare,20.2,778.65,455.51,0.585,0
+1724,Neurology,Medicaid,25.7,2122.93,1481.0,0.698,0
+1725,Emergency,Medicare,22.9,1314.9,1311.67,0.998,0
+1726,Emergency,Self-Pay,23.7,2169.53,1428.52,0.658,0
+1727,Neurology,Self-Pay,45.3,3569.09,3142.36,0.88,0
+1728,Cardiology,Medicare,75.9,3362.05,2120.93,0.631,0
+1729,General Medicine,Private,62.5,1867.44,1620.29,0.868,0
+1730,Emergency,Medicare,17.6,4193.58,3090.75,0.737,0
+1731,Orthopedics,Self-Pay,31.5,5085.7,4710.82,0.926,0
+1732,Orthopedics,Private,13.8,3603.08,2223.51,0.617,0
+1733,Neurology,Medicare,15.0,1671.95,1241.92,0.743,0
+1734,Cardiology,Medicare,24.9,2213.88,1681.47,0.76,0
+1735,Emergency,Medicaid,14.7,5641.43,3505.01,0.621,0
+1736,Cardiology,Private,16.5,1957.15,868.59,0.444,1
+1737,Emergency,Medicaid,31.0,3368.19,1383.7,0.411,1
+1738,Neurology,Self-Pay,36.9,1471.86,531.1,0.361,1
+1739,Neurology,Private,36.2,4210.32,3864.22,0.918,0
+1740,Orthopedics,Private,36.5,1360.06,685.07,0.504,0
+1741,Cardiology,Self-Pay,8.9,2273.78,1108.42,0.487,1
+1742,Orthopedics,Private,14.1,3299.42,2733.32,0.828,0
+1743,Cardiology,Self-Pay,26.9,6290.29,3510.05,0.558,0
+1744,Orthopedics,Medicare,52.5,2744.87,1863.57,0.679,0
+1745,General Medicine,Private,102.4,2034.3,926.89,0.456,1
+1746,General Medicine,Self-Pay,32.4,1938.78,1888.05,0.974,0
+1747,General Medicine,Medicare,42.5,4106.09,3709.97,0.904,0
+1748,General Medicine,Medicare,8.0,3145.9,2867.37,0.911,0
+1749,Emergency,Private,41.8,3528.41,2167.87,0.614,0
+1750,General Medicine,Medicare,85.8,5419.03,4581.98,0.846,0
+1751,Neurology,Private,14.0,2489.4,1104.1,0.444,1
+1752,Neurology,Private,17.0,3017.13,1072.9,0.356,1
+1753,Emergency,Self-Pay,46.3,1922.19,697.72,0.363,1
+1754,General Medicine,Private,26.6,1434.21,1048.83,0.731,0
+1755,General Medicine,Medicaid,3.9,1625.2,1049.89,0.646,0
+1756,General Medicine,Private,17.8,322.28,221.31,0.687,0
+1757,Orthopedics,Medicaid,64.6,3280.04,1163.93,0.355,1
+1758,Cardiology,Private,21.2,3085.91,1927.91,0.625,0
+1759,Orthopedics,Self-Pay,21.1,3239.78,2646.07,0.817,0
+1760,Cardiology,Medicare,44.4,1370.82,874.24,0.638,0
+1761,General Medicine,Private,33.2,1643.77,1357.66,0.826,0
+1762,General Medicine,Private,20.3,1608.92,806.81,0.501,0
+1763,Orthopedics,Private,16.1,4444.03,3904.27,0.879,0
+1764,Orthopedics,Medicare,132.9,2684.53,1966.37,0.732,1
+1765,Cardiology,Private,57.9,2473.2,1204.44,0.487,1
+1766,Neurology,Medicaid,36.5,3716.57,1872.66,0.504,0
+1767,Cardiology,Medicare,38.1,1612.48,1222.61,0.758,0
+1768,Orthopedics,Private,23.8,2974.2,2645.43,0.889,0
+1769,Orthopedics,Medicare,32.9,6747.31,4184.4,0.62,0
+1770,Emergency,Medicaid,22.0,4840.47,2506.86,0.518,0
+1771,Orthopedics,Private,13.0,2947.91,2693.09,0.914,0
+1772,Emergency,Private,33.8,2529.69,1985.87,0.785,0
+1773,Neurology,Private,20.6,3223.55,2067.12,0.641,0
+1774,Cardiology,Medicaid,35.0,5217.39,3480.7,0.667,0
+1775,Cardiology,Medicaid,39.5,5011.16,2419.22,0.483,1
+1776,Emergency,Medicare,36.3,5708.83,4323.99,0.757,0
+1777,Cardiology,Medicaid,12.1,2774.95,1618.3,0.583,0
+1778,Orthopedics,Medicaid,18.9,456.25,454.96,0.997,0
+1779,General Medicine,Medicare,20.9,6482.03,4291.88,0.662,0
+1780,Emergency,Self-Pay,49.6,1432.07,953.51,0.666,0
+1781,Cardiology,Private,47.9,3681.78,2642.8,0.718,0
+1782,Emergency,Private,14.8,464.56,439.42,0.946,0
+1783,Emergency,Private,8.7,2442.07,2125.9,0.871,0
+1784,General Medicine,Private,105.5,1959.37,1260.33,0.643,1
+1785,Orthopedics,Medicare,35.3,5716.07,4670.91,0.817,0
+1786,Emergency,Self-Pay,7.6,2970.02,2171.24,0.731,0
+1787,Cardiology,Private,16.8,2426.58,1625.9,0.67,0
+1788,Neurology,Private,50.9,3163.79,1502.82,0.475,1
+1789,Emergency,Medicare,89.9,215.75,140.57,0.652,0
+1790,Emergency,Self-Pay,80.7,1588.19,809.63,0.51,0
+1791,General Medicine,Private,34.3,1751.53,1654.58,0.945,0
+1792,Orthopedics,Medicare,26.2,3456.31,1963.23,0.568,0
+1793,Neurology,Private,11.1,1223.92,1185.94,0.969,0
+1794,Cardiology,Private,27.8,2704.0,1883.3,0.696,0
+1795,Neurology,Self-Pay,12.5,2285.66,1738.25,0.761,0
+1796,Cardiology,Self-Pay,19.1,1645.52,1156.65,0.703,0
+1797,Orthopedics,Private,46.2,1716.72,745.22,0.434,1
+1798,Cardiology,Self-Pay,21.9,2272.85,1350.72,0.594,0
+1799,General Medicine,Medicare,20.8,577.52,239.35,0.414,1
+1800,General Medicine,Self-Pay,25.2,3745.66,2827.67,0.755,0
